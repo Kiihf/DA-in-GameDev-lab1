@@ -41,7 +41,7 @@
 
 
 
-![1]([crhbys 1/eyes.gif](https://raw.githubusercontent.com/Kiihf/DA-in-GameDev-lab1/main/crhbys%201/eyes.gif))
+![1](https://github.com/Kiihf/DA-in-GameDev-lab1/blob/5b06980053ddbd0ed9ec193ffa64f8ec641b40a3/crhbys%201/eyes.gif)
 - Задание 2.
 Продемонстрируйте на сцене в Unity следующее:
 - Что произойдёт с координатами объекта, если он перестанет быть дочерним?
